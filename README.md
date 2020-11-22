@@ -15,6 +15,7 @@ We recommended the following dependencies.
 If you find this paper or code helpful, please cite this paper:
 <br/> 
 <br/> 
+<font size=6>
 @inproceedings{liang2020optical,  
 &nbsp;&nbsp;title={Optical Wavelength Guided Self-Supervised Feature Learning For Galaxy Cluster Richness Estimate},  
 &nbsp;&nbsp;author={Liang, Gongbo and Su, Yuanyuan and Lin, Sheng-Chieh and Zhang, Yu and Zhang, Yuanyuan and Jacobs, Nathan},  
