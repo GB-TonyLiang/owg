@@ -17,8 +17,8 @@ If you find this paper or code helpful, please cite this paper:
 <br/> 
 
 @inproceedings{liang2020optical,  
-&nbsp;title={Optical Wavelength Guided Self-Supervised Feature Learning For Galaxy Cluster Richness Estimate},  
-&nbsp;author={Liang, Gongbo and Su, Yuanyuan and Lin, Sheng-Chieh and Zhang, Yu and Zhang, Yuanyuan and Jacobs, Nathan},  
-&nbsp;booktitle={Neural Information Processing Systems (NeurIPS) Workshop on  Machine Learning and the Physical Sciences},  
-&nbsp;year={2020} <br/>
+&nbsp;&nbsp;title={Optical Wavelength Guided Self-Supervised Feature Learning For Galaxy Cluster Richness Estimate},  
+&nbsp;&nbsp;author={Liang, Gongbo and Su, Yuanyuan and Lin, Sheng-Chieh and Zhang, Yu and Zhang, Yuanyuan and Jacobs, Nathan},  
+&nbsp;&nbsp;booktitle={Neural Information Processing Systems (NeurIPS) Workshop on  Machine Learning and the Physical Sciences},  
+&nbsp;&nbsp;year={2020} <br/>
 }
